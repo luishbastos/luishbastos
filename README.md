@@ -1,4 +1,4 @@
-<h3 align="center">👋🏻 hello there, welcome to my hub 👋🏻😀</h3>
+<h3 align="center">👋🏻 Hello programmers, welcome to my hub 👋🏻😀</h3>
 
 <div align="center">
   <a href="https://github.com/luishbastos">
